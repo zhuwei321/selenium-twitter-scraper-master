@@ -20,6 +20,7 @@ pip install -r requirements.txt
 TWITTER_USERNAME=# Your Twitter Handle (e.g. @username)
 TWITTER_USERNAME=# Your Twitter Username
 TWITTER_PASSWORD=# Your Twitter Password
+TWITTER_EMAIL=# Your email or username 
 ```
 
 ### Authentication in Terminal
